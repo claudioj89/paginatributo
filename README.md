@@ -1,1 +1,2 @@
-Exercicio pra css e html5.
+Exercicio pra css e html5. 1.0
+
